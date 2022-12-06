@@ -16,6 +16,9 @@
       "/node_modules/"
     ]
   },
+    "dependencies": {
+    "axios": "^0.18.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/DigitalCareerInstitute/Node-OxFord-Dictionary",
